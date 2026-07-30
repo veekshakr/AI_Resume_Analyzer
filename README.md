@@ -1,7 +1,5 @@
 # AI Resume Analyzer
 
-## Generative AI Internship – Week 3 Project
-
 The **AI Resume Analyzer** is a Generative AI-powered web application that analyzes a candidate's resume and evaluates how well it matches a selected target job role.
 
 The application extracts text from an uploaded PDF resume and uses Google's Gemini API to identify skills, keywords, missing skills, strengths, weaknesses, and areas for improvement.
